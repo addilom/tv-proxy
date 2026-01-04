@@ -1,13 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="https://granada.choval.xyz/tr/haber/cnnturkhd.png" group-title="HABER",CNN TURK
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
 
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-logo="..." group-title="HABER",CNN TURK
-https://tv-proxy.dalgic.workers.dev/?id=cnnturk
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://granada.choval.xyz/tr/ulusal/kanaldhd.png" group-title="ULUSAL",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="..." group-title="ULUSAL",KANAL D
-https://tv-proxy.dalgic.workers.dev/?id=kanald
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://granada.choval.xyz/tr/ulusal/startvhd.png" group-title="ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="..." group-title="ULUSAL",SHOW TV
-https://tv-proxy.dalgic.workers.dev/?id=showtv
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="..." group-title="ULUSAL",STAR TV
-https://tv-proxy.dalgic.workers.dev/?id=startv
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://granada.choval.xyz/tr/ulusal/showtvhd.png" group-title="ULUSAL",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
