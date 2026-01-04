@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://granada.choval.xyz/tr/haber/tgrthaberhd.png" group-title="TR ➾ HABER",TR: TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://granada.choval.xyz/tr/haber/cnnturkhd.png" group-title="TR ➾ HABER",TR: CNN TURK HD
+https://tv-proxy.onrender.com/kanal?id=cnnturk
+
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABERTURK HD" tvg-logo="https://granada.choval.xyz/tr/haber/haberturkhd.png" group-title="TR ➾ HABER",TR: HABERTURK HD
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/kanaldhd.png" group-title="TR ➾ ULUSAL",TR: KANAL D HD
+https://tv-proxy.onrender.com/kanal?id=kanald
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/showtvhd.png" group-title="TR ➾ ULUSAL",TR: SHOW TV HD
+https://tv-proxy.onrender.com/kanal?id=showtv
+
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://granada.choval.xyz/tr/ulusal/startvhd.png" group-title="TR ➾ ULUSAL",TR: STAR TV HD
+https://tv-proxy.onrender.com/kanal?id=startv
