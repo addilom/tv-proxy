@@ -1,8 +1,6 @@
 {
   "name": "tv-proxy",
   "version": "1.0.0",
-  "description": "IPTV Proxy",
-  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
