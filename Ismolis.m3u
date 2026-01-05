@@ -1,13 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kanald",KANAL D HD
+https://tvworks.dalgic.workers.dev/?id=kanald
 
-#EXTINF:-1 tvg-id="kanald.tr" group-title="ULUSAL",KANAL D HD
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
-#EXTINF:-1 tvg-id="cnnturk.tr" group-title="HABER",CNN TURK HD
-https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
-
-#EXTINF:-1 tvg-id="showtv.tr" group-title="ULUSAL",SHOW TV HD
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="startv.tr" group-title="ULUSAL",STAR TV HD
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="cnnturk",CNN TURK HD
+https://tvworks.dalgic.workers.dev/?id=cnnturk
